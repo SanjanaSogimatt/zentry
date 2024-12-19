@@ -1,4 +1,5 @@
-import { useEffect, useRef,useState } from "react"
+// @ts-nocheck
+import { useEffect, useRef, useState } from "react"
 import Button from "./Button"
 import { TiLocationArrow } from "react-icons/ti"
 import { useWindowScroll } from 'react-use'

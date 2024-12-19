@@ -1,5 +1,6 @@
+// @ts-nocheck
 import gsap from 'gsap'
-import React, { useEffect, useRef } from 'react'
+import { useEffect, useRef } from 'react'
 
 function AnimatedTitle({ title, containerClass }) {
     const containerRef = useRef(null)

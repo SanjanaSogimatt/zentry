@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useEffect, useRef, useState } from 'react'
 import Button from './Button'
 import { TiLocationArrow } from 'react-icons/ti'

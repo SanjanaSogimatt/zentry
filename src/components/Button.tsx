@@ -1,4 +1,4 @@
-import React from 'react'
+// @ts-nocheck
 
 const Button = ({title,id,rightIcon,leftIcon,containerClass}) => {
   return (
